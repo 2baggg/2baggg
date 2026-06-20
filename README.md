@@ -74,6 +74,14 @@ The project demonstrated how AI, computer vision, and mixed reality can support 
 | AI & ML | Machine Learning, Deep Learning, Computer Vision, LLM Evaluation |
 | Languages | German, Turkish, English, Spanish |
 
+## Currently Learning
+
+- Machine Learning
+- Deep Learning
+- Vector Databases
+- Responsible AI
+- The mathematics behind AI
+  
 ## Contact
 
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/tugba-guneysu).
