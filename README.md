@@ -72,7 +72,7 @@ The project demonstrated how AI, computer vision, and mixed reality can support 
 | Visualization | Power BI, Matplotlib, Dashboards |
 | Web & Tools | HTML, CSS, Git, Figma |
 | AI & ML | Machine Learning, Deep Learning, Computer Vision, LLM Evaluation |
-| Languages | German, Turkish, English, Spanish |
+| Languages | German, Turkish, English, Spanish B1 |
 
 ## Currently Learning
 
