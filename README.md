@@ -39,3 +39,41 @@ The project compared a custom CNN with fine-tuned ResNet-18 and EfficientNet-B0 
 
 Developed a data validation process for a federated learning environment.  
 The project focused on validating training and test datasets before model training to improve data quality, detect schema errors early, and provide clear feedback to clients. Great Expectations was selected after comparing tools such as Cerberus, Pandera, and Great Expectations.
+
+**Technologies:** Python, Great Expectations, gRPC, YAML, Federated Learning
+
+### Vector Database and Semantic Image Search
+
+Built a semantic image search application to explain why vector databases are important for modern AI applications.  
+The project used embeddings, CLIP, FAISS, and Streamlit to extract semantic image features, index vectors, perform similarity search, and visualize the results in an interactive user interface.
+
+**Technologies:** Python, CLIP, FAISS, Streamlit, Vector Databases, Embeddings
+
+### Bias in LLM Hiring Decisions
+
+Conducted a fairness audit on Large Language Models in hiring-related tasks.  
+The project investigated how identical resumes can lead to different salary predictions, job recommendations, and hiring rationales when only demographic cues such as race and gender are changed.
+
+**Technologies:** Python, LLM Evaluation, Fairness Auditing, NLP, Data Analysis
+
+### Drone-Assisted Human Rescue with AI and HoloLens
+
+Worked on an AI-based search-and-rescue concept combining drone footage, human detection, and HoloLens guidance.  
+The project demonstrated how AI, computer vision, and mixed reality can support real-time rescue operations.
+
+**Technologies:** Python, AI, Computer Vision, HoloLens, Drone Systems
+
+## Skills
+
+| Area | Skills |
+|---|---|
+| Programming | Python, C#, Kotlin, JavaScript, TypeScript, SQL |
+| Data Science | Pandas, NumPy, scikit-learn, PyTorch, TensorFlow |
+| Visualization | Power BI, Matplotlib, Dashboards |
+| Web & Tools | HTML, CSS, Git, Figma |
+| AI & ML | Machine Learning, Deep Learning, Computer Vision, LLM Evaluation |
+| Languages | German, Turkish, English, Spanish |
+
+## Contact
+
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/tugba-guneysu).
