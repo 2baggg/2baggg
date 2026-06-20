@@ -4,6 +4,14 @@ I am a Data Science and Computer Science graduate student with a strong interest
 
 Currently, I am pursuing an M.S. in Data Science at Florida Polytechnic University and an M.S. in Computer Science with a focus on Machine Learning at Karlsruhe University of Applied Sciences. I also hold a B.S. in Business Informatics. My academic and professional background combines data science, software engineering, business intelligence, and digital transformation.
 
+## About Me
+
+- Data Science and Computer Science student
+- Interested in Machine Learning, AI, Data Analytics, and Software Development
+- Experience with Python, PyTorch, TensorFlow, Pandas, NumPy, SQL, Power BI, and Git
+- Professional experience at Porsche Digital, IBM Deutschland, Bosch, HanseVision, and Porsche AG
+- Passionate about building practical AI and data-driven solutions
+
 ## My Story
 
 Before I found my way into Computer Science, I actually came from a completely different background: I trained as a pharmaceutical technical assistant. For a long time, my path was closely connected to medicine, science, and the question of how complex systems work.
@@ -17,14 +25,6 @@ That thought made me curious.
 So I decided to study Business Informatics at Karlsruhe University of Applied Sciences. During my bachelor's degree, I discovered that I was especially interested in data, mathematics, and machine learning. I also worked as a tutor for Mathematics 1 and Mathematics 2, which made me want to understand not only how AI is used, but also the mathematics behind it.
 
 I am still at the beginning of this journey. Studying Computer Science does not mean I have mastered it. But it does mean that I found a path I genuinely want to continue exploring.
-
-## About Me
-
-- Data Science and Computer Science student
-- Interested in Machine Learning, AI, Data Analytics, and Software Development
-- Experience with Python, PyTorch, TensorFlow, Pandas, NumPy, SQL, Power BI, and Git
-- Professional experience at Porsche Digital, IBM Deutschland, Bosch, HanseVision, and Porsche AG
-- Passionate about building practical AI and data-driven solutions
 
 ## Projects
 
